@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-data": "^1.2.1",
+    "gulp-pug": "^3.3.0",
+    "moment": "^2.17.1"
+  }
+}
